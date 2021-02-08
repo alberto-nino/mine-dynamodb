@@ -1,0 +1,15 @@
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/controller/MineController.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/error/RestExceptionHandler.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/service/MineService.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/dto/CellDTO.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/model/Cell.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/model/BackupData.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/config/DynamoDBConfig.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/error/MineException.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/repository/MineRepository.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/dto/ApplicationError.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/service/MineServiceImpl.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/dto/GameDTO.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/SpringbootDynamodbExampleApplication.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/enums/StatusEnum.java
+/Users/ansolorzano/Downloads/springboot-dynamodb-example/src/main/java/com/game/aws/model/Game.java

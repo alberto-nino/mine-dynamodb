@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.game.aws.service.GameServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.611 s - in com.game.aws.service.GameServiceTest
